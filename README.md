@@ -1,7 +1,11 @@
 ## Olá! Sou o Zuriel Junior, é um prazer ter você aqui.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuriel-Junior-U&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuriel-Junior-U&hide_progress=true&theme=gotham)
+<h1 align="center">⚙Git Stats</h1>
+
+<div align="center">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Zuriel-Junior-U&theme=tokyonight&rank_icon=github&card_width=300&show_icons=true&bg_color=90,000000,040449" />
+</div>
+
 
 <p align="center">Comprometido em transformar desafios em soluções, meu objetivo e aprimorar minhas habilidad, resultando em melhor desempenho, sempre visando uma melhor experiência ao usuário.</p>
 
