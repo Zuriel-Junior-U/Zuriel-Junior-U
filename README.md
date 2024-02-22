@@ -6,10 +6,9 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Zuriel-Junior-U&theme=tokyonight&rank_icon=github&card_width=300&show_icons=true&bg_color=90,000000,040449" />
 </div>
 
+---
 
 <p align="center">Comprometido em transformar desafios em soluções, meu objetivo e aprimorar minhas habilidad, resultando em melhor desempenho, sempre visando uma melhor experiência ao usuário.</p>
-
----
 
 <h3 align="center">:dart: Metas para 2024+ :dart:</h3>
 
