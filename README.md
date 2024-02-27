@@ -3,7 +3,7 @@
 <h1 align="center">⚙Git Stats</h1>
 
 <div align="center">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Zuriel-Junior-U&theme=tokyonight&rank_icon=github&card_width=300&show_icons=true&bg_color=90,000000,040449" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Zuriel-Junior-U&theme=gotham&show_icons=true" />
 </div>
 
 ---
